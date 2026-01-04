@@ -1,1 +1,3 @@
-# TUGAS-UAS
+Nama: Rangga
+Kelas: 03SISP006
+Nim: 241091700360
